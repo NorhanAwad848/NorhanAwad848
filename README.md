@@ -75,7 +75,7 @@
       <p color="#a569bd">
         I'm a Software Engineer who graduated from Helwan University in June
         2024 from the Faculty of Computers and Artificial Intelligence with a
-        cumulative GPA of 3.8 out of 4 (Canadian System).
+        cumulative GPA of 3.82 out of 4 (Canadian System).
       </p>
       <p color="#a569bd">
         I possess two years of hands-on experience in web development. I have
