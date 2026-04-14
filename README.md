@@ -6,7 +6,7 @@
         alt="NorhanAwad"
       />
     </section>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CF34E3&center=true&multiline=true&random=false&width=700&height=100&lines=Hello%2CI'm+Norhan+Awad+Abd+Elmeged%2C;a+passionate+Software+Engineering+fresh+graduate%2C;Interested+in+Data+Science+%26+Software+Engineering." alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CF34E3&center=true&multiline=true&random=false&width=700&height=100&lines=Hello%2CI'm+Norhan+Awad+Abd+Elmeged%2C;a+passionate+Software+Engineering %2C;Interested+in+Data+Science+%26+Software+Engineering." alt="Typing SVG" /></a>
   </section>
   <br />
   <section align="left">
@@ -89,15 +89,6 @@
 </section>
   </section>
   <br />
-  <section align="left">
-    <h2>
-      <img
-        src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
-        width="25"
-      />
-      Skills
-    </h2>
-   <br />
   <section align="left">
     <h2>
       <img
@@ -505,19 +496,6 @@
       />
       GitHub stats
     </h2>
-    <br />
-    <section>
-      <span
-        ><img
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=NorhanAwad848&hide_border=true&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-          width="320"
-      /></span>
-      <span
-        ><img
-          src="https://github-readme-stats.vercel.app/api?username=NorhanAwad848&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&hide_border=true&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-          width="450"
-      /></span>
-    </section>
     <br />
     <section>
       <span
