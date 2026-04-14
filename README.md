@@ -72,20 +72,32 @@
     </h2>
     <br />
     <section align="center">
-      <p color="#a569bd">
-        I'm a Software Engineer who graduated from Helwan University in June
-        2024 from the Faculty of Computers and Artificial Intelligence with a
-        cumulative GPA of 3.82 out of 4 (Canadian System).
-      </p>
-      <p color="#a569bd">
-        Full Stack Developer with 2+ years of experience in building and maintaining scalable web applications using Django, React, and modern backend technologies.
-        Experienced in designing RESTful systems, database modeling, and developing end-to-end solutions.
-        Strong background in backend development (Python, Django) and databases (SQL Server, PostgreSQL). Skilled in frontend technologies including HTML, CSS, JavaScript and React with focus on responsive UI development.
-        Interested in Artificial Intelligence and Machine Learning with hands-on experience in classification, regression models, and computer vision tasks using TensorFlow, PyTorch, and OpenCV.
-      </p>
-    </section>
+  <p style="color:#a569bd; font-size:15px; line-height:1.7;">
+    I'm a Software Engineer graduated from Helwan University (Faculty of Computers and Artificial Intelligence, 2024) with a GPA of 3.82/4.0 (Canadian System).
+  </p>
+
+  <p style="color:#a569bd; font-size:15px; line-height:1.7;">
+    Full Stack Developer with 2+ years of experience in building scalable and responsive web applications using Django, React, Angular, and modern backend technologies.
+    I have strong experience in backend development using Python (Django), Node.js, and PHP, along with database design and management using SQL Server, MySQL, and PostgreSQL.
+    On the frontend side, I work with HTML, CSS, JavaScript, Bootstrap, and React to build responsive and user-friendly interfaces.
+  </p>
+
+  <p style="color:#a569bd; font-size:15px; line-height:1.7;">
+    Passionate about Artificial Intelligence and Machine Learning with hands-on experience in classification, regression models, and computer vision using TensorFlow, PyTorch, and OpenCV.
+    I am continuously improving my skills in problem solving, system design, and building end-to-end intelligent solutions that solve real-world problems.
+  </p>
+</section>
   </section>
   <br />
+  <section align="left">
+    <h2>
+      <img
+        src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+        width="25"
+      />
+      Skills
+    </h2>
+   <br />
   <section align="left">
     <h2>
       <img
@@ -151,7 +163,17 @@
           height="50"
           width="50"
       /></a>
-
+      <a
+        href="https://angular.io"
+        target="_blank"
+        rel="noreferrer"
+        style="margin-right: 0.5rem"
+        ><img
+          src="https://www.svgrepo.com/show/373427/angular.svg"
+          alt="AngularJS"
+          height="50"
+          width="50"
+      /></a>
       <a
         href="https://getbootstrap.com"
         target="_blank"
@@ -185,7 +207,39 @@
           height="50"
           width="50"
       /></a>
-
+      <a
+        href="https://www.java.com"
+        target="_blank"
+        rel="noreferrer"
+        style="margin-right: 0.5rem"
+        ><img
+          src="https://www.svgrepo.com/show/452234/java.svg"
+          alt="Java"
+          height="50"
+          width="50"
+      /></a>
+      <a
+        href="https://nodejs.org/en"
+        target="_blank"
+        rel="noreferrer"
+        style="margin-right: 0.5rem"
+        ><img
+          src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg"
+          alt="NodeJs"
+          height="50"
+          width="50"
+      /></a>
+      <a
+        href="https://www.php.net"
+        target="_blank"
+        rel="noreferrer"
+        style="margin-right: 0.5rem"
+        ><img
+          src="https://www.svgrepo.com/show/373970/php3.svg"
+          alt="PHP"
+          height="50"
+          width="50"
+      /></a>
       <a
         href="https://flask.palletsprojects.com/en/3.0.x/"
         target="_blank"
@@ -198,7 +252,39 @@
           width="50"
           style="filter: grayscale(100%)"
       /></a>
-
+      <a
+        href="https://expressjs.com"
+        target="_blank"
+        rel="noreferrer"
+        style="margin-right: 0.5rem"
+        ><img
+          src="https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png"
+          alt="Express"
+          height="50"
+          width="90"
+      /></a>
+      <a
+        href="https://www.apachefriends.org/"
+        target="_blank"
+        rel="noreferrer"
+        style="margin-right: 0.5rem"
+        ><img
+          src="https://www.svgrepo.com/show/354575/xampp.svg"
+          alt="xampp"
+          height="50"
+          width="50"
+      /></a>
+      <a
+        href="https://www.mongodb.com/"
+        target="_blank"
+        rel="noreferrer"
+        style="margin-right: 0.5rem"
+        ><img
+          src="https://www.svgrepo.com/show/331488/mongodb.svg"
+          alt="mongodb"
+          height="50"
+          width="50"
+      /></a>
       <a
         href="https://firebase.google.com/"
         target="_blank"
@@ -375,7 +461,17 @@
           height="50"
           width="50"
       /></a>
-
+      <a
+        href="https://www.microsoft.com/en-us/windows?r=1"
+        target="_blank"
+        rel="noreferrer"
+        style="margin-right: 0.5rem"
+        ><img
+          src="https://www.svgrepo.com/show/382713/windows-applications.svg"
+          alt="Windows"
+          height="50"
+          width="50"
+      /></a>
       <a
         href="https://ubuntu.com/"
         target="_blank"
