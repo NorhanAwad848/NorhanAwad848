@@ -81,8 +81,8 @@
   </p>
 
   <p style="color:#a569bd; font-size:15px; line-height:1.7;">
-    Full Stack Developer with 2+ years of experience in building scalable and responsive web applications using Django, React, Angular, and modern backend technologies.
-    I have strong experience in backend development using Python (Django), Node.js, and PHP, along with database design and management using SQL Server, MySQL, and PostgreSQL.
+    Full Stack Developer with 2+ years of experience in building scalable and responsive web applications using Django, React, and modern backend technologies.
+    I have strong experience in backend development using Python (Django) along with database design and management using SQL Server and PostgreSQL.
     On the frontend side, I work with HTML, CSS, JavaScript, Bootstrap, and React to build responsive and user-friendly interfaces.
   </p>
 
