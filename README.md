@@ -1,13 +1,17 @@
 <body>
   <section align="center">
-    <section>
-      <img
-        src="https://komarev.com/ghpvc/?username=NorhanAwad848&label=Profile%20views&color=A569BD&style=flat"
-        alt="NorhanAwad"
-      />
-    </section>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CF34E3&center=true&multiline=true&random=false&width=700&height=100&lines=Hello%2CI'm+Norhan+Awad+Abd+Elmeged%2C;a+passionate+Software+Engineering %2C;Interested+in+Data+Science+%26+Software+Engineering." alt="Typing SVG" /></a>
-  </section>
+   <section align="center">
+
+  <img
+    src="https://komarev.com/ghpvc/?username=NorhanAwad848&label=Profile%20Views&color=A569BD&style=flat"
+    alt="Profile Views"
+  />
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A569BD&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+there%2C+I'm+Norhan+Awad+Abd+Elmeged;Software+Engineer+%7C+Full+Stack+Developer;Passionate+about+AI%2C+ML+%26+Scalable+Systems" />
+
+</section>
   <br />
   <section align="left">
     <h2>
